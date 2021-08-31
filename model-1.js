@@ -4,3 +4,6 @@ var feeling = "happy";
 var age = 38
 var numberOfPets = 6
 var birthYear = 1983
+var employed = false
+var inSchool = true
+var lovesCats = true 
