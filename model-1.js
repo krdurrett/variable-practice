@@ -10,3 +10,6 @@ var lovesCats = true
 var catNames = ['Seven', 'Potato', 'Loki']
 var sevenAttributes = ['tabby', 5, 'loves outdoors']
 var ages = [5, 1, 3]
+var self = {name: 'Kayla', age: 38, occupation: 'Student'}
+var car = {make: 'Nissan', model: 'Leaf', year: 2021}
+var favoriteMusic = {artist: 'Ben Folds', album: 'Rockin the Suburbs', song: 'Still Fighting It'}
